@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\main.cpp(19,13): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\main.cpp(19,13): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\main.cpp(19,13): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\main.cpp(19,13): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\main.cpp(27,13): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\main.cpp(27,13): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\main.cpp(27,13): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+  ThiSinh.cpp
+  Generating Code...
+  Project2.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project2\Project2\x64\Debug\Project2.exe

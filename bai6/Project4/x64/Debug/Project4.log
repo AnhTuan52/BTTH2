@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Tamgiac.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project4\Project4\Tamgiac.cpp(18,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Project4.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project4\x64\Debug\Project4.exe

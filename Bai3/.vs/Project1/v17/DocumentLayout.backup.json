@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\DaGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\DaGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\Diem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Diem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\Diem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Diem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\DaGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39B8DD8E-41B8-47D0-8BE7-D9DA4AFD5B7F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\DaGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diem.cpp",
+              "DocumentMoniker": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\Diem.cpp",
+              "RelativeDocumentMoniker": "Project1\\Diem.cpp",
+              "ToolTip": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\Diem.cpp",
+              "RelativeToolTip": "Project1\\Diem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T06:28:56.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DaGiac.cpp",
+              "DocumentMoniker": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\DaGiac.cpp",
+              "RelativeDocumentMoniker": "Project1\\DaGiac.cpp",
+              "ToolTip": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\DaGiac.cpp",
+              "RelativeToolTip": "Project1\\DaGiac.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T06:28:37.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DaGiac.h",
+              "DocumentMoniker": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\DaGiac.h",
+              "RelativeDocumentMoniker": "Project1\\DaGiac.h",
+              "ToolTip": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\DaGiac.h",
+              "RelativeToolTip": "Project1\\DaGiac.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T06:23:17.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diem.h",
+              "DocumentMoniker": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\Diem.h",
+              "RelativeDocumentMoniker": "Project1\\Diem.h",
+              "ToolTip": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\Diem.h",
+              "RelativeToolTip": "Project1\\Diem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T06:21:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "D:\\L\u00EA Anh Tu\u1EA5n\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\BTTH2.3\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T06:21:12.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

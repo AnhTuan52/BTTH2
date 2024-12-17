@@ -1,0 +1,19 @@
+﻿  Diem.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\Diem.cpp(35,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\Diem.cpp(36,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  TamGiac.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(46,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(47,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(48,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(49,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(50,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(51,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(59,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(60,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(61,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(62,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(63,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\TamGiac.cpp(64,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Project7.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project7\Project7\x64\Debug\Project7.exe

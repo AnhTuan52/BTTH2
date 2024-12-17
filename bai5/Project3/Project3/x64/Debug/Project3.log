@@ -1,0 +1,8 @@
+﻿  Diem.cpp
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project3\Project3\Diem.cpp(27,17): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project3\Project3\Diem.cpp(27,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project3\Project3\Diem.cpp(29,17): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project3\Project3\Diem.cpp(29,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+  main.cpp
+  Generating Code...
+  Project3.vcxproj -> D:\Lê Anh Tuấn\Lập trình hướng đối tượng\BTTH2.3\Project3\Project3\x64\Debug\Project3.exe
